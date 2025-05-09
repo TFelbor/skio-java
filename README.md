@@ -1,4 +1,4 @@
-# Ski Orienteering Path Optimizer
+# CPSC327 : Data Structures & Algs. Project 3 - Ski Orienteering Path Optimizer
 
 A Java-based application that calculates the optimal path for a ski orienteering course using Dijkstra's shortest path algorithm. This tool helps competitors find the fastest route through a course while ensuring all control points are visited in the correct order.
 
